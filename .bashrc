@@ -1,0 +1,1 @@
+/home/jdegreef/dotfiles/home/.bashrc
