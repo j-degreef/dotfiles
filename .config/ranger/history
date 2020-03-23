@@ -1,0 +1,50 @@
+filter_stack add name Sete
+filter_stack add name *_
+filter_stack add name [0-za-zA-Z]
+filter_stack add name -$
+filter_stack add name [0-9] - 
+filter_stack add name [0-9] - S
+c
+filter_stack add name png
+open_with exif
+open_with xvin
+rename 2006-07-22 - Angie maison cloclo
+mkdir tmp
+find Pen
+rename 2006-03-04 - Magali
+rename 2006-08-19 - Polnarencontre
+rename 2008-01-22 - Biscotte opérée
+search IMGP0001.JPG
+filter_stack add name _
+rename Seagate Expansion Drive 3Tb tmp
+rename Key 2TB
+open_with 2
+open_with vim
+shell 
+fasd _
+filter_stack add name _$
+mkdir Brol
+mkdir 2020-02-24 - Rampes Grumiaux
+shell lsof /dev/sdb1
+cd /var
+find pos
+mkdir 2020-03-02 - Travaux Proximus
+rename P1130300.JPG
+rename P1130299.JPG
+open_with gimp
+open_with xnviewmp
+find note
+mkdir 2020-03-04 - Camionnette devant grage.
+extracthere 
+delete
+rename Pro.Cycling.Manager.2019.Language.Changer-SKIDROW.torrent
+rename Pro Cycling Manager 2019 [FitGirl Repack].torrent
+rename [limetorrents.info]Pro.Cycling.Manager.2019.WorldDB.2020.DLC-SKIDROW.torrent
+open_with 
+open_with vlc
+rename Un ticket pour l'espace.avi.torrent
+open_with 1
+cd 
+cd  bin
+
+open_with masterpdf
