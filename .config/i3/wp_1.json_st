@@ -1,0 +1,71 @@
+{
+    "border": "none",
+    "current_border_width": 0,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 434,
+       "width": 654,
+       "x": 0,
+       "y": 0
+    },
+    "name": "[jdegreef@nexus6:~]",
+    "percent": 0.5,
+    "swallows": [
+       {
+       "class": "^st-256color$",
+       "instance": "^1$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "none",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.5,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 434,
+               "width": 654,
+               "x": 0,
+               "y": 0
+            },
+            "name": "[jdegreef@nexus6:~]",
+            "percent": 0.5,
+            "swallows": [
+               {
+               "class": "^st-256color$",
+               "instance": "^2$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 434,
+               "width": 654,
+               "x": 0,
+               "y": 0
+            },
+            "name": "[jdegreef@nexus6:~]",
+            "percent": 0.5,
+            "swallows": [
+               {
+               "class": "^st-256color$",
+               "instance": "^3$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
